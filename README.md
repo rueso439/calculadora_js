@@ -1,5 +1,4 @@
 # Calculadora JS
+![Calculadora](https://user-images.githubusercontent.com/92635274/139877733-57f6952b-e2b5-4f6c-a7fd-d3eafcc471e6.png) 
 
-<img src="https://i.ibb.co/QJBNx5v/Screen-Shot-2021-01-31-at-22-41-36.png" alt="drawing" width="400"/>
-![Calculadora](https://user-images.githubusercontent.com/92635274/139865525-fc90bd70-6c3c-4bfd-94ff-e168d1a93a51.png)
-
+< img src="h
